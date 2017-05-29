@@ -1,0 +1,33 @@
+*{margin: 0;padding: 0;}
+
+.header_wrapper{
+    background: url(../img/he.png) no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.header{
+
+    
+}
+.logo{
+padding: 107px 10%; 
+    
+}
+.logo span{
+    color: #fff;
+    font-size: 10pt;
+}
+.header_para{
+    margin-left: 140px;
+    color: #fff;
+    font-weight: normal;
+    
+}
+.header p{
+    margin: 5px 0%;
+}
+.header_img{
+    position: relative;
+    margin-left: 764px;
+    padding-top: 127px;
+}
